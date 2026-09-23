@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- ========== WAVING HEADER ========== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&text=&fontSize=0&animation=twinkling" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=150&section=header&text=&fontSize=0" width="100%" alt="header"/>
 
 <!-- ========== TYPING SVG (Pixel Font — single cycling line) ========== -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=3000&pause=1500&color=4ADE80&center=true&vCenter=true&repeat=true&width=450&height=30&lines=Lost+in+the+digital+void...;Finding+peace+in+code...;Code.+Sleep.+Repeat.;Welcome+to+my+space." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=9&duration=3000&pause=1500&color=4ADE80&center=true&vCenter=true&repeat=true&width=420&height=25&lines=Lost+in+the+digital+void;Peace+in+solitude;Code.+Sleep.+Repeat;Welcome+to+my+space" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -99,10 +99,12 @@ const rafi = {
 
 <br/><br/>
 
-<!-- Trophies (alternatif dari stats card yang sering error) -->
-<a href="https://github.com/muhammadrafisabilillah40">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammadrafisabilillah40&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</a>
+<!-- GitHub Profile Summary Badges -->
+<img src="https://img.shields.io/badge/Total_Commits-learning-4ADE80?style=flat-square&logo=git&logoColor=white" alt="Commits"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Focus-Vue.js_%7C_PHP-22D3EE?style=flat-square&logo=vuedotjs&logoColor=white" alt="Focus"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Mode-Dark_🌙-0d1117?style=flat-square" alt="Mode"/>
 
 <br/><br/>
 
@@ -122,6 +124,6 @@ const rafi = {
 <br/><br/>
 
 <!-- ========== WAVING FOOTER ========== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,5,2,2,0&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" width="100%" alt="footer"/>
 
 </div>
