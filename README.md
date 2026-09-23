@@ -1,19 +1,19 @@
 <div align="center">
 
 <!-- ========== WAVING HEADER ========== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0E14,50:12162B,100:0B0E14&height=150&section=header&text=&fontSize=0&animation=twinkling" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0E14,30:162447,60:1F4068,100:0B0E14&height=150&section=header&text=&fontSize=0&animation=twinkling" width="100%" alt="header"/>
 
 <!-- ========== TYPING SVG (Pixel Font) ========== -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3500&pause=2000&color=4ADE80&center=true&vCenter=true&repeat=true&width=600&height=35&lines=%E2%96%B6+Walking+alone+in+the+digital+void..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3500&pause=2000&color=4ADE80&center=true&vCenter=true&repeat=true&width=500&height=30&lines=%E2%96%B6+Walking+alone+in+the+digital+void..." alt="Typing SVG" />
 </a>
 <br/>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3500&pause=2000&color=22D3EE&center=true&vCenter=true&repeat=true&width=600&height=35&lines=%E2%9C%A6+Finding+peace+in+solitude..." alt="Typing SVG 2" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3500&pause=2000&color=22D3EE&center=true&vCenter=true&repeat=true&width=500&height=30&lines=%E2%9C%A6+Finding+peace+in+solitude..." alt="Typing SVG 2" />
 </a>
 <br/>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3500&pause=2000&color=F97316&center=true&vCenter=true&repeat=true&width=600&height=35&lines=%E2%96%B2+Code.+Sleep.+Repeat." alt="Typing SVG 3" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3500&pause=2000&color=F97316&center=true&vCenter=true&repeat=true&width=500&height=30&lines=%E2%96%B2+Code.+Sleep.+Repeat." alt="Typing SVG 3" />
 </a>
 
 <br/>
@@ -50,7 +50,7 @@
 
 </div>
 
-<!-- ========== ABOUT ME — CLEAN TERMINAL ========== -->
+<!-- ========== ABOUT ME ========== -->
 <div align="center">
 
 ### `🖥️ About Me`
@@ -100,20 +100,27 @@ const rafi = {
 
 <br/>
 
-<!-- Stats Card -->
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=muhammadrafisabilillah40&show_icons=true&hide_border=true&bg_color=0B0E14&title_color=4ADE80&icon_color=4ADE80&text_color=8b949e&ring_color=4ADE80&count_private=true" alt="GitHub Stats"/>
-&nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadrafisabilillah40&layout=compact&hide_border=true&bg_color=0B0E14&title_color=4ADE80&text_color=8b949e&langs_count=6" alt="Top Languages"/>
-
-<br/><br/>
-
-<!-- Streak Card -->
+<!-- Streak Card (demolab — paling stabil) -->
 <img src="https://streak-stats.demolab.com/?user=muhammadrafisabilillah40&hide_border=true&background=0B0E14&ring=4ADE80&fire=ff6600&currStreakLabel=4ADE80&sideLabels=4ADE80&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadrafisabilillah40&bg_color=0B0E14&color=4ADE80&line=4ADE80&point=ffffff&area=true&area_color=1a4a1a&hide_border=true&custom_title=Contribution%20Forest" alt="Contribution Graph" width="95%"/>
+<!-- Stats Card (cadangan instance) -->
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=muhammadrafisabilillah40&show_icons=true&hide_border=true&bg_color=0B0E14&title_color=4ADE80&icon_color=4ADE80&text_color=8b949e&ring_color=4ADE80&count_private=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=muhammadrafisabilillah40&show_icons=true&hide_border=true&bg_color=0B0E14&title_color=4ADE80&icon_color=4ADE80&text_color=8b949e&ring_color=4ADE80&count_private=true" alt="GitHub Stats"/>
+</picture>
+&nbsp;
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadrafisabilillah40&layout=compact&hide_border=true&bg_color=0B0E14&title_color=4ADE80&text_color=8b949e&langs_count=6"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadrafisabilillah40&layout=compact&hide_border=true&bg_color=0B0E14&title_color=4ADE80&text_color=8b949e&langs_count=6" alt="Top Languages"/>
+</picture>
 
 <br/><br/>
 
@@ -133,6 +140,6 @@ const rafi = {
 <br/><br/>
 
 <!-- ========== WAVING FOOTER ========== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0E14,50:12162B,100:0B0E14&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0E14,30:1F4068,60:162447,100:0B0E14&height=120&section=footer" width="100%" alt="footer"/>
 
 </div>
