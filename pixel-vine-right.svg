@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 400" width="60" height="400">
+  <defs>
+    <style>
+      .vine-sway { animation: vineSway 5s ease-in-out infinite reverse; transform-origin: top center; }
+      @keyframes vineSway { 0%,100%{ transform: rotate(-1deg); } 50%{ transform: rotate(1deg); } }
+      .leaf-float { animation: leafFloat 4s ease-in-out infinite; }
+      .leaf-d1 { animation-delay: 0.5s; }
+      .leaf-d2 { animation-delay: 1.5s; }
+      .leaf-d3 { animation-delay: 2.5s; }
+      .leaf-d4 { animation-delay: 3.5s; }
+      @keyframes leafFloat { 0%,100%{ transform: translateX(0); opacity: 0.8; } 50%{ transform: translateX(-3px); opacity: 1; } }
+      .glow { animation: glowPulse 3s ease-in-out infinite; }
+      .glow-d1 { animation-delay: 0.3s; }
+      .glow-d2 { animation-delay: 1s; }
+      .glow-d3 { animation-delay: 1.7s; }
+      .glow-d4 { animation-delay: 2.4s; }
+      .glow-d5 { animation-delay: 3.1s; }
+      @keyframes glowPulse { 0%,100%{ opacity: 0.3; } 50%{ opacity: 1; } }
+    </style>
+  </defs>
+  <rect x="0" y="0" width="60" height="400" fill="transparent"/>
+  <!-- Vine -->
+  <g class="vine-sway">
+    <rect x="29" y="0" width="3" height="400" fill="#1a4a1a" opacity="0.6"/>
+    <rect x="32" y="0" width="2" height="3" fill="#1a4a1a" opacity="0.4"/>
+    <!-- Leaves along vine (mirrored) -->
+    <g class="leaf-float leaf-d1">
+      <rect x="34" y="40" width="6" height="3" fill="#2a882a"/>
+      <rect x="38" y="43" width="4" height="3" fill="#226622"/>
+    </g>
+    <g class="leaf-float leaf-d2">
+      <rect x="21" y="90" width="6" height="3" fill="#2a882a"/>
+      <rect x="19" y="93" width="4" height="3" fill="#226622"/>
+    </g>
+    <g class="leaf-float leaf-d3">
+      <rect x="34" y="140" width="8" height="3" fill="#267726"/>
+      <rect x="40" y="143" width="4" height="3" fill="#1e5a1e"/>
+    </g>
+    <g class="leaf-float leaf-d4">
+      <rect x="21" y="190" width="6" height="3" fill="#2a882a"/>
+      <rect x="19" y="193" width="4" height="3" fill="#226622"/>
+    </g>
+    <g class="leaf-float leaf-d1">
+      <rect x="34" y="240" width="8" height="3" fill="#267726"/>
+      <rect x="40" y="243" width="4" height="3" fill="#1e5a1e"/>
+    </g>
+    <g class="leaf-float leaf-d3">
+      <rect x="21" y="290" width="6" height="3" fill="#2a882a"/>
+      <rect x="19" y="293" width="4" height="3" fill="#226622"/>
+    </g>
+    <g class="leaf-float leaf-d2">
+      <rect x="34" y="340" width="8" height="3" fill="#267726"/>
+      <rect x="40" y="343" width="4" height="3" fill="#1e5a1e"/>
+    </g>
+  </g>
+  <!-- Fireflies -->
+  <circle class="glow glow-d1" cx="45" cy="60" r="2" fill="#aaff44"/>
+  <circle class="glow glow-d2" cx="15" cy="130" r="1.5" fill="#ccff66"/>
+  <circle class="glow glow-d3" cx="48" cy="200" r="2" fill="#aaff44"/>
+  <circle class="glow glow-d4" cx="12" cy="270" r="1.5" fill="#ccff66"/>
+  <circle class="glow glow-d5" cx="42" cy="330" r="2" fill="#aaff44"/>
+  <circle class="glow glow-d1" cx="18" cy="385" r="1.5" fill="#ccff66"/>
+  <!-- Small pixel mushrooms (mirrored side) -->
+  <rect x="42" y="165" width="4" height="4" fill="#8b3a3a"/>
+  <rect x="40" y="163" width="8" height="2" fill="#cc4444"/>
+  <rect x="42" y="161" width="4" height="2" fill="#dd5555"/>
+  <rect x="43" y="162" width="2" height="1" fill="#ffffff"/>
+  <rect x="10" y="315" width="4" height="4" fill="#8b3a3a"/>
+  <rect x="8" y="313" width="8" height="2" fill="#cc4444"/>
+  <rect x="10" y="311" width="4" height="2" fill="#dd5555"/>
+  <rect x="11" y="312" width="2" height="1" fill="#ffffff"/>
+</svg>
