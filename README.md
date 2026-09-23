@@ -1,22 +1,14 @@
 <div align="center">
 
 <!-- ========== WAVING HEADER ========== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0E14,30:162447,60:1F4068,100:0B0E14&height=150&section=header&text=&fontSize=0&animation=twinkling" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&text=&fontSize=0&animation=twinkling" width="100%" alt="header"/>
 
-<!-- ========== TYPING SVG (Pixel Font) ========== -->
+<!-- ========== TYPING SVG (Pixel Font — single cycling line) ========== -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3500&pause=2000&color=4ADE80&center=true&vCenter=true&repeat=true&width=500&height=30&lines=%E2%96%B6+Walking+alone+in+the+digital+void..." alt="Typing SVG" />
-</a>
-<br/>
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3500&pause=2000&color=22D3EE&center=true&vCenter=true&repeat=true&width=500&height=30&lines=%E2%9C%A6+Finding+peace+in+solitude..." alt="Typing SVG 2" />
-</a>
-<br/>
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3500&pause=2000&color=F97316&center=true&vCenter=true&repeat=true&width=500&height=30&lines=%E2%96%B2+Code.+Sleep.+Repeat." alt="Typing SVG 3" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=3000&pause=1500&color=4ADE80&center=true&vCenter=true&repeat=true&width=450&height=30&lines=Lost+in+the+digital+void...;Finding+peace+in+code...;Code.+Sleep.+Repeat.;Welcome+to+my+space." alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 <!-- ========== PIXEL FOREST BANNER ========== -->
 <img src="https://raw.githubusercontent.com/muhammadrafisabilillah40/muhammadrafisabilillah40/main/pixel-forest.svg" width="100%" alt="Pixel Forest Night Scene" />
@@ -69,7 +61,7 @@ const rafi = {
     focus    : "🔨 Building things silently",
     vibe     : "🎧 Dark mode, solitude, lo-fi",
     theme    : "🌲 Pixel Forest Night",
-    
+
     techStack: {
         frontend : ["Vue.js", "HTML5", "CSS3", "Bootstrap", "JavaScript"],
         backend  : ["PHP", "PostgreSQL"],
@@ -100,27 +92,17 @@ const rafi = {
 
 <br/>
 
-<!-- Streak Card (demolab — paling stabil) -->
-<img src="https://streak-stats.demolab.com/?user=muhammadrafisabilillah40&hide_border=true&background=0B0E14&ring=4ADE80&fire=ff6600&currStreakLabel=4ADE80&sideLabels=4ADE80&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" alt="GitHub Streak"/>
+<!-- Streak Card -->
+<a href="https://github.com/muhammadrafisabilillah40">
+  <img src="https://streak-stats.demolab.com/?user=muhammadrafisabilillah40&hide_border=true&background=0B0E14&ring=4ADE80&fire=ff6600&currStreakLabel=4ADE80&sideLabels=4ADE80&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" alt="GitHub Streak"/>
+</a>
 
 <br/><br/>
 
-<!-- Stats Card (cadangan instance) -->
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=muhammadrafisabilillah40&show_icons=true&hide_border=true&bg_color=0B0E14&title_color=4ADE80&icon_color=4ADE80&text_color=8b949e&ring_color=4ADE80&count_private=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=muhammadrafisabilillah40&show_icons=true&hide_border=true&bg_color=0B0E14&title_color=4ADE80&icon_color=4ADE80&text_color=8b949e&ring_color=4ADE80&count_private=true" alt="GitHub Stats"/>
-</picture>
-&nbsp;
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadrafisabilillah40&layout=compact&hide_border=true&bg_color=0B0E14&title_color=4ADE80&text_color=8b949e&langs_count=6"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadrafisabilillah40&layout=compact&hide_border=true&bg_color=0B0E14&title_color=4ADE80&text_color=8b949e&langs_count=6" alt="Top Languages"/>
-</picture>
+<!-- Trophies (alternatif dari stats card yang sering error) -->
+<a href="https://github.com/muhammadrafisabilillah40">
+  <img src="https://github-profile-trophy.vercel.app/?username=muhammadrafisabilillah40&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</a>
 
 <br/><br/>
 
@@ -140,6 +122,6 @@ const rafi = {
 <br/><br/>
 
 <!-- ========== WAVING FOOTER ========== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0E14,30:1F4068,60:162447,100:0B0E14&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,5,2,2,0&height=120&section=footer" width="100%" alt="footer"/>
 
 </div>
